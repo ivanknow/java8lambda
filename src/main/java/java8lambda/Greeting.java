@@ -1,0 +1,6 @@
+package java8lambda;
+
+public interface Greeting {
+	public void perform();
+
+}
